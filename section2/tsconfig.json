@@ -5,7 +5,8 @@
     "outDir": "dist",
     "strict": true,
     "moduleDetection": "force",
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    // "strictNullChecks": false, 널 체크 업격 여부
   },
   "include": ["src"],
 
